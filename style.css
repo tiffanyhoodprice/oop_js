@@ -1,0 +1,14 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin: 0px;
+}
+
+.box.right {
+  background-color: green;
+}
+
+.box.wrong {
+  background-color: red;
+}
